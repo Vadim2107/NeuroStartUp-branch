@@ -10,7 +10,7 @@
 
 *Необходимое ПО:*
 
-Распределенная система контроля версий Git:
+Распределенная система контроля версий **Git**:
 1. Для Windows - [Git](https://git-scm.com/download/win);
 1. Для Mac - [Git](https://git-scm.com/download/mac).
 
